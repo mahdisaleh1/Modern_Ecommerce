@@ -1,2 +1,2 @@
 # Modern_Ecommerce
-![Website Preview](homepage.png)
+![Website Preview](images/homepage.png)
